@@ -5,6 +5,6 @@ Compiles in Visual Studio 2012.
 
 TODO :
 
-    Improve fidelity of opponent AI
-    Improve user interface
-    Bug identifying and fixing
+    *Improve fidelity of opponent AI
+    *Improve user interface
+    *Bug identifying and fixing
