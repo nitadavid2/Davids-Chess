@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\bin\Debug\DavidsChessGame.exe.config
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\bin\Debug\DavidsChessGame.exe
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\bin\Debug\DavidsChessGame.pdb
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.Form1.resources
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.Properties.Resources.resources
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.exe
+c:\users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.Form2.resources
+C:\Users\david\documents\visual studio 2012\Projects\DavidsChessGame\DavidsChessGame\obj\Debug\DavidsChessGame.Form3.resources
