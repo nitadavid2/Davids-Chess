@@ -8,3 +8,4 @@ TODO :
     *Improve fidelity of opponent AI
     *Improve user interface
     *Bug identifying and fixing
+    *Make code more readable
